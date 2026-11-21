@@ -45,7 +45,7 @@ object BuildJava : BuildType({
 
     steps {
         script {
-            name = "Compile Clas"
+            name = "Compile Class"
             id = "simpleRunner"
             scriptContent = """
                 #!/bin/bash
