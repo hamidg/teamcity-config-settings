@@ -34,7 +34,7 @@ project {
 }
 
 object BuildJava : BuildType({
-    name = "Build_Java"
+    name = "Build_Java-test"
 
     vcs {
         root(Java)
