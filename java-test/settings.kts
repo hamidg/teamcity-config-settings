@@ -30,7 +30,7 @@ project {
 
     vcsRoot(Java)
 
-    buildType(BuildJava)
+    buildType(BuildJavatest)
 }
 
 object BuildJava : BuildType({
